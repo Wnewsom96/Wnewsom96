@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Will
 - 👀 I’m interested in Statistics!
-- 🌱 I’m currently learning Data Science as a whole
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on anything Data Related!
 - 📫 You can reach me by email...
 
