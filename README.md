@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **wnewsom32@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/wnews/Downloads/Will%20H%20Newsom%20Resume%202022%20Updated%201%20(2).pdf](file:///C:/Users/wnews/Downloads/Will%20H%20Newsom%20Resume%202022%20Updated%201%20(2).pdf)
+- 📄 Currently working in Sales in Big Tech (Palo Alto Networks - Cybersecurity)
 
 - ⚡ Fun fact **I am a forever student, a blessing and a curse.**
 
