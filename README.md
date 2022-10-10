@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Will
-- 👀 I’m interested in working in VC,PE,Climate startups and Tech!
+- 👀 I’m interested in working in VC,PE,Energy and Tech!
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on anything Data Related!
 - 📫 You can reach me by email...
