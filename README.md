@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wnewsom96&label=Profile%20views&color=0e75b6&style=flat" alt="wnewsom96" /> </p>
 
-- 🔭 I’m currently working on **Unsupervised Learning**
+- 🔭 I’m currently working on **Serverless Machine Learning**
 
 - 🌱 I’m currently learning **Linear Algebra**
 
