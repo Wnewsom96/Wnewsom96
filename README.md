@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Unknown Options, www.theunknownoptions.com**
 
-- 🌱 I’m currently learning **Numerical Methods**
+- 🌱 I’m currently learning **Time Series**
 
 - 💬 Ask me about **tech,vc, and energy!**
 
