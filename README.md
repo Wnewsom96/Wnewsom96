@@ -5,7 +5,7 @@
 
 - 👽 I’m currently building on **Unknown Options, www.theunknownoptions.com**. A comprehensive guide on career accessibility and apprehension.
 
-- 🐣 I’m currently learning **Computer Vision**
+- 🐣 I’m currently relearning **SQL**
 
 - 🌱 Ask me about **tech,venture capital, and energy!**
 
