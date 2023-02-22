@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wnewsom96&label=Profile%20views&color=0e75b6&style=flat" alt="wnewsom96" /> </p>
 
-- 👽 I’m currently building on **Unknown Options, www.theunknownoptions.com**. A comprehensive guide on career accessibility and apprehension.
+- 👽 I’m currently building  **Unknown Options, www.theunknownoptions.com**. A comprehensive guide on career accessibility and apprehension. Also an operator for Knowmad Digital Marketing, helping SBA's grow.
 
 - 🐣 I’m currently relearning **SQL**
 
-- 🌱 Ask me about **tech,venture capital, and energy!**
+- 🌱 Ask me about **tech, venture capital, and energy!**
 
 - 📞 How to reach me **wnewsom32@gmail.com or info@theunknownoptions.com**
 
