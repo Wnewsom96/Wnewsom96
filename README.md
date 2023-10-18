@@ -5,13 +5,13 @@
 
 - 👽 I’m currently building  **Unknown Options, www.theunknownoptions.com**. A comprehensive guide on career accessibility and apprehension. 
 
-- 🐣 I’m currently relearning **SQL**
+- 🐣 I’m currently relearning **Python**
 
-- 🌱 Ask me about **tech, venture capital, and energy!**
+- 🌱 Ask me about **cybersecurity, entrepreneurship & religion!**
 
 - 📞 How to reach me **wnewsom32@gmail.com or info@theunknownoptions.com**
 
-- 📈  Currently working in Sales in Big Tech (Palo Alto Networks - Cybersecurity)
+- 📈  Currently working in Sales in Big Tech (Check Point - Cybersecurity)
 
 - 📒 Fun fact **I am a forever student, a blessing and a curse. Also I love animals, currently 5 cats and 10 chickens! I am also an avid foodie, my favorite types being southeast asian.**
 
