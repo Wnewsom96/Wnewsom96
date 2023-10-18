@@ -13,7 +13,7 @@
 
 - 📈  Currently working in Sales in Big Tech (Check Point - Cybersecurity)
 
-- 📒 Fun fact **I am a forever student, a blessing and a curse. Also I love animals, currently 5 cats and 10 chickens! I am also an avid foodie, my favorite types being southeast asian.**
+- 📒 Fun fact **I am a forever student, a blessing and a curse. Also, I love animals, currently 1 bearded dragon, 2 leopard geckos, 5 cats, and 7 chickens! I am also an avid foodie, my favorite types being Thai, Indian and Ethiopian.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
