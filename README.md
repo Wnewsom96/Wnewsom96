@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Will Newsom</h1>
-<h3 align="center">A passionate data curator born in Brookyln,NY🗽, from/living in Charlotte, NC.</h3>
+<h3 align="center">A passionate cybersecurity enthusiast born in Brookyln,NY🗽, from/living in Charlotte, NC.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wnewsom96&label=Profile%20views&color=0e75b6&style=flat" alt="wnewsom96" /> </p>
 
-- 👽 I’m currently building  **Unknown Options, www.theunknownoptions.com**. A comprehensive guide on career accessibility and apprehension. 
+- 👽 I’m currently learning  **Unknown Options, www.theunknownoptions.com**. A comprehensive guide on career accessibility and apprehension. 
 
 - 🐣 I’m currently relearning **Python**
 
@@ -11,7 +11,7 @@
 
 - 📞 How to reach me **wnewsom32@gmail.com or 704-778-7748**
 
-- 📈  Currently working in Sales in Big Tech (Check Point - Cybersecurity)
+- 📈  Currently working as a Sales Associate in Big Tech (Check Point - Cybersecurity)
 
 - 📒 Fun fact **I am a forever student, a blessing and a curse. Also, I love animals, currently 1 bearded dragon, 2 leopard geckos, 5 cats, and 7 chickens! I am also an avid foodie, my favorite types being Thai, Indian and Ethiopian.**
 
