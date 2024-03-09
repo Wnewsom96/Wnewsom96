@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wnewsom96&label=Profile%20views&color=0e75b6&style=flat" alt="wnewsom96" /> </p>
 
-- 👽 I’m currently learning  **Unknown Options, www.theunknownoptions.com**. A comprehensive guide on career accessibility and apprehension. 
+- 👽 I’m currently learning Web, Programming, & Database Foundations. 
 
 - 🐣 I’m currently relearning **Python**
 
