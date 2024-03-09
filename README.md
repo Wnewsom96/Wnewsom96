@@ -9,7 +9,7 @@
 
 - 🌱 Ask me about **cybersecurity, entrepreneurship & religion!**
 
-- 📞 How to reach me **wnewsom32@gmail.com or info@theunknownoptions.com**
+- 📞 How to reach me **wnewsom32@gmail.com or 704-778-7748**
 
 - 📈  Currently working in Sales in Big Tech (Check Point - Cybersecurity)
 
