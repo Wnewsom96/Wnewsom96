@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wnewsom96&label=Profile%20views&color=0e75b6&style=flat" alt="wnewsom96" /> </p>
 
-- 👽 I’m currently learning Web, Programming, & Database Foundations. 
+- 👽 I’m currently learning Security Concepts & Networking. 
 
 - 🐣 I’m currently relearning **Python**
 
 - 🌱 Ask me about **cybersecurity, entrepreneurship & religion!**
 
-- 📞 How to reach me **wnewsom32@gmail.com or 704-778-7748**
+- 📞 How to reach me **willnewsomsales@gmail.com or 704-778-7748**
 
-- 📈  Currently working as a Sales Associate in Big Tech (Check Point - Cybersecurity)
+- 📈  Currently working as a SMB Account Manager in Big Tech (Check Point - Cybersecurity)
 
 - 📒 Fun fact **I am a forever student, a blessing and a curse. Also, I love animals, currently 1 bearded dragon, 2 leopard geckos, 5 cats, and 7 chickens! I am also an avid foodie, my favorite types being Thai, Indian and Ethiopian.**
 
