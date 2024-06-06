@@ -11,9 +11,9 @@
 
 - 📞 How to reach me **willnewsomsales@gmail.com or 704-778-7748**
 
-- 📈  Currently working as a SMB Account Manager in Big Tech (Check Point - Cybersecurity)
+- 📈  Currently working as an SMB Account Manager in Big Tech (Check Point - Cybersecurity)
 
-- 📒 Fun fact **I am a forever student, a blessing and a curse. Also, I love animals, currently 1 bearded dragon, 2 leopard geckos, 5 cats, and 7 chickens! I am also an avid foodie, my favorite types being Thai, Indian and Ethiopian.**
+- 📒 Fun fact **I am a forever student, a blessing and a curse. Also, I love animals, currently 1 bearded dragon, 2 leopard geckos, 4 cats, and 7 chickens! I am also an avid foodie, my favorite types being Thai, Indian and Ethiopian.**
 
 
 <h3 align="left">Languages and Tools:</h3>
