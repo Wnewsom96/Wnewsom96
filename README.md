@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wnewsom96&label=Profile%20views&color=0e75b6&style=flat" alt="wnewsom96" /> </p>
 
-- 👽 I’m currently learning Security Concepts & Networking. 
+- 👽 I’m currently learning Networking, OS & Device Foundations, Virtualization, and Windows.
 
-- 🐣 I’m currently relearning **Python**
+- 🐣 I’m currently learning **Web App Development** in my free time.
 
 - 🌱 Ask me about **cybersecurity, entrepreneurship & religion!**
 
@@ -13,7 +13,7 @@
 
 - 📈  Currently working as an SMB Account Manager in Big Tech (Check Point - Cybersecurity)
 
-- 📒 Fun fact **I am a forever student, a blessing and a curse. Also, I love animals, currently 1 bearded dragon, 2 leopard geckos, 4 cats, and 7 chickens! I am also an avid foodie, my favorite types being Thai, Indian and Ethiopian.**
+- 📒 Fun fact **I am a forever student, a blessing and a curse. Also, I love animals, currently 1 bearded dragon, 2 leopard geckos, 2 species of Isopod(Rubber Ducky & Dairy Cow), 4 cats, and 6 chickens! I am also an avid foodie, my favorite types being Thai, Indian and Ethiopian.**
 
 
 <h3 align="left">Languages and Tools:</h3>
