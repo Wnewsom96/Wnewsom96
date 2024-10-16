@@ -7,7 +7,7 @@
 
 - 🐣 I’m currently building **"Discover a Dish" & "Find a Pro Cleaner"** in my free time.
 
-- 🌱 Ask me about **cybersecurity, entrepreneurship & religion!**
+- 🌱 Ask me about **cybersecurity**
 
 - 📞 How to reach me **willnewsomsales@gmail.com or 704-778-7748**
 
