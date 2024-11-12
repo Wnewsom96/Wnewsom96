@@ -5,7 +5,7 @@
 
 - 👽 I’m currently learning Networking, OS & Device Foundations, Virtualization, and Windows.
 
-- 🐣 I’m currently building **"Discover a Dish" & "Find a Pro Cleaner"** in my free time.
+- 🐣 I’m currently earning **"AWS Cloud Practitioner certification"** in my free time.
 
 - 🌱 Ask me about **cybersecurity**
 
