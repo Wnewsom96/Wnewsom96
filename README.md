@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wnewsom96&label=Profile%20views&color=0e75b6&style=flat" alt="wnewsom96" /> </p>
 
-- 👽 I’m currently learning Networking, OS & Device Foundations, Virtualization, and Windows.
+- 👽 I’m currently learning Computer Crime Investigations, Python, Switching and Routing, and Linux/UNIX.
 
 - 🐣 I’m currently earning **"AWS Cloud Practitioner certification"** in my free time.
 
