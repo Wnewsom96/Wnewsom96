@@ -5,7 +5,7 @@
 
 - 👽 I’m currently learning Computer Crime Investigations, Python, Switching and Routing, and Linux/UNIX.
 
-- 🐣 I’m currently earning **"AWS Certified AI Practitioner"** in my free time.
+- 🐣 I’m currently reading **several books in my free time** in my free time.
 
 - 🌱 Ask me about **cybersecurity**
 
