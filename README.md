@@ -11,7 +11,7 @@
 
 - 📞 How to reach me **willnewsomsales@gmail.com or 704-778-7748**
 
-- 📈  Currently working as an Territory Account Manager in Big Tech (Check Point - Cybersecurity)
+- 📈  Currently working as a Territory Account Manager in Big Tech (Check Point - Cybersecurity)
 
 - 📒 Fun fact **I am a forever student, a blessing and a curse. Also, I love animals, currently 1 bearded dragon, 2 leopard geckos, 2 species of Isopod(Rubber Ducky & Dairy Cow), 4 cats, and 6 chickens! I am also an avid foodie, my favorite types being Thai, Indian and Ethiopian. Love to read - all genres, watch movies, eat good food, laugh, and workout.**
 
