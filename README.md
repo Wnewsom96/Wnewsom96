@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Will Newsom</h1>
-<h3 align="center">A passionate cybersecurity enthusiast born in Brookyln,NY🗽, from/living in Charlotte, NC.</h3>
+<h3 align="center">A passionate cybersecurity enthusiast. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wnewsom96&label=Profile%20views&color=0e75b6&style=flat" alt="wnewsom96" /> </p>
 
