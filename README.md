@@ -13,18 +13,15 @@
 
 I sell cybersecurity for a living and build things with AI on the side. Currently a Major Account Manager at Check Point Software Technologies, covering enterprise accounts across Charlotte and South Carolina. Before this, I cut my teeth at Palo Alto Networks as a BDR where I learned what real pipeline discipline looks like.
 
-I'm equally comfortable in a boardroom with a CISO or debugging a Python script at midnight. That's not a sales pitch — it's just where I've ended up.
-
 ---
 
 ## What I Do
 
 **Check Point Software Technologies** — *Major Account Manager* `Jan 2025 – Present`
-16 named enterprise accounts including Lowe's, Prisma Health, and AvidXchange. Full-cycle sales across network security, SASE, cloud, and email.
-
-> Ranked **#1 in East Region** quota attainment · **Top 30 of 2,386** global reps in % New Logo ARR
+10 named enterprise accounts including Lowe's, Prisma Health, and AvidXchange. Full-cycle sales across network security, SASE, cloud, and email.
 
 **Previous:** Territory Account Manager (139% quota, $222K ACV deal → $1M+ lifecycle) · SMB Account Manager (4th of 16 reps, 40+ net new logos) · BDR at Palo Alto Networks ($11.2M pipeline vs. $7M goal)
+> Ranked **#1 in East Region** quota attainment · **Top 30 of 2,386** global reps in % New Logo ARR
 
 **How I sell:** MEDDPICC · C-suite relationship building · Channel co-selling · Multi-product solution selling
 
