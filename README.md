@@ -2,7 +2,7 @@
 
 # William Newsom
 
-**Major Account Manager · Cybersecurity Sales · Charlotte, NC**
+**Account Director · Cybersecurity VAR · Charlotte, NC**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-newsom)
 [![Email](https://img.shields.io/badge/Email-willnewsomsales@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:willnewsomsales@gmail.com)
@@ -11,17 +11,17 @@
 
 ---
 
-I sell cybersecurity for a living and build things with AI on the side. Currently a Major Account Manager at Check Point Software Technologies, covering enterprise accounts across Charlotte and South Carolina. Before this, I cut my teeth at Palo Alto Networks as a BDR where I learned what real pipeline discipline looks like.
+I sell cybersecurity for a living and build things with AI on the side. Currently an Account Director at Crush Security, covering  accounts across the Carolinas, DC, Kentucky, Virginia, and West Virginia. 
 
 ---
 
-## What I Do
+## What I Did
 
-**Check Point Software Technologies** — *Major Account Manager* `Jan 2025 – Present`
+**Check Point Software Technologies** — *Major Account Manager* 
 10 named enterprise accounts including Lowe's, Prisma Health, and AvidXchange. Full-cycle sales across network security, SASE, cloud, and email.
 
-**Previous:** Territory Account Manager (139% quota, $222K ACV deal → $1M+ lifecycle) · SMB Account Manager (4th of 16 reps, 40+ net new logos) · BDR at Palo Alto Networks ($11.2M pipeline vs. $7M goal)
-> Ranked **#1 in East Region** quota attainment · **Top 30 of 2,386** global reps in % New Logo ARR
+**Previous To:** Territory Account Manager (139% quota, $222K ACV deal → $1M+ lifecycle) · SMB Account Manager (4th of 16 reps, 40+ net new logos) · BDR at Palo Alto Networks ($11.2M pipeline vs. $7M goal)
+> Ranked **#1 in East Region** quota attainment · **Top 30 of 2,386** global reps in % New Logo ARR , BDR @ PANW
 
 **How I sell:** MEDDPICC · C-suite relationship building · Channel co-selling · Multi-product solution selling
 
